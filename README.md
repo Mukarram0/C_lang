@@ -1,2 +1,2 @@
 # C++_lang
-in this course, we are going to run the basic code in C++ language
+in this repository ,we have written some basic codes in C++ language.
